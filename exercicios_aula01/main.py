@@ -51,3 +51,5 @@ def ganhoPorHora():
     print(f'Você recebe {horasTrabalhadas/salario}')
 
 ganhoPorHora()
+
+
